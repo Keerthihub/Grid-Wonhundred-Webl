@@ -1,0 +1,16 @@
+@import "_variables";
+@import "fonts";
+@import "reset";
+html {
+    scroll-behavior: smooth;
+}
+
+img {
+  max-width: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: #fff;
+}
+
