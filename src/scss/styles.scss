@@ -1,6 +1,8 @@
 @import "_variables";
 @import "fonts";
 @import "reset";
+@import url('https://fonts.googleapis.com/css2?family=B612+Mono:ital,wght@0,400;0,700;1,400&family=DM+Serif+Display&display=swap');
+
 html {
     scroll-behavior: smooth;
 }
@@ -11,6 +13,9 @@ img {
 }
 
 body {
+  font-family: 'DM Serif Display', serif;
   background-color: #fff;
+  padding: 45px; 
 }
+
 
